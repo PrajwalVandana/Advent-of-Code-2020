@@ -9,3 +9,5 @@ Code that I'm proud of (so not all the days) for Advent of Code 2020
 | 10   | joltage     |
 | 11   | seating     |
 | 13   | buses       |
+
+Most (I think all) of the code is for part two of that day.
