@@ -94,7 +94,7 @@ def num_visible(r, c):
     return res
 
 
-with open('/users/sysadmin/Documents/Prajwal/Programming/Python/Competitions/Advent of Code/input.txt') as fin:
+with open('/users/sysadmin/Documents/Prajwal/Programming/Competitions/Advent of Code/input.txt') as fin:
     finished = False
     grid = []
     while not finished:
