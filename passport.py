@@ -36,7 +36,7 @@ def valid(passport):
         return False
 
 
-with open('/users/sysadmin/Documents/Prajwal/Programming/Python/Competitions/Advent of Code/input.txt') as fin:
+with open('/users/sysadmin/Documents/Prajwal/Programming/Competitions/Advent of Code/input.txt') as fin:
     res = 0
     finished = False
     while not finished:
