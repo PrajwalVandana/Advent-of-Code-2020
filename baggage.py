@@ -27,7 +27,7 @@ class Rules:
         return sum([ele[0]*(1 + self.count(ele[1])) for ele in self.data[i]])
 
 
-with open('/users/sysadmin/Documents/Prajwal/Programming/Python/Competitions/Advent of Code/input.txt') as fin:
+with open('/users/sysadmin/Documents/Prajwal/Programming/Competitions/Advent of Code/input.txt') as fin:
     finished = False
     rules = Rules()
     while not finished:
