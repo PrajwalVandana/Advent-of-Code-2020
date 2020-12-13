@@ -24,7 +24,7 @@ def ways(main_lst, idx):
         return res
 
 
-with open('/users/sysadmin/Documents/Prajwal/Programming/Python/Competitions/Advent of Code/input.txt') as fin:
+with open('/users/sysadmin/Documents/Prajwal/Programming/Competitions/Advent of Code/input.txt') as fin:
     finished = False
     joltages = [0]
     mx_jolts = 0
