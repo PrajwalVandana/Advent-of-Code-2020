@@ -42,6 +42,7 @@ with open('/users/sysadmin/Documents/Prajwal/Programming/Competitions/Advent of 
 
     # way 2: fill up a list with number of ways for each i,
     #        using a recursive rule
+    #        (credit to some dude on r/adventofcode)
     ways_list = [1]+[0]*joltages[-1]
     for i in joltages[1:]:
         ways_list[i] = ways_list[i-1] + ways_list[i-2] + ways_list[i-3]
