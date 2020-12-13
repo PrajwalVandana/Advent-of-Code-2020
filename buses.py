@@ -2,6 +2,7 @@ import functools
 import math
 
 # a module with a bunch of functions I wrote
+# https://github.com/PrajwalVandana/Shortcuts
 from mymodules import shortcuts as sh
 
 
