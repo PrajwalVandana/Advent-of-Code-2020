@@ -12,7 +12,7 @@ def switch(instruction):
     return 'jmp' if instruction == 'nop' else 'nop'
 
 
-with open('/users/sysadmin/Documents/Prajwal/Programming/Python/Competitions/Advent of Code/input.txt') as fin:
+with open('/users/sysadmin/Documents/Prajwal/Programming/Competitions/Advent of Code/input.txt') as fin:
     finished = False
     operations = []
     while not finished:
