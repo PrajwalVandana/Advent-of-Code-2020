@@ -48,8 +48,4 @@ with open('/users/sysadmin/Documents/Prajwal/Programming/Competitions/Advent of 
         for switch in switches:
             points[switch] = not points[switch]
 
-    res = 0
-    for state in points.values():
-        res += state
-
-    print(res)
+    print(sum(points.values()))
