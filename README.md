@@ -11,4 +11,4 @@ Code that I'm proud of (so not all the days) for Advent of Code 2020
 | 13  | buses       |
 | 17  | cubes       |
 
-Most (I think all) of the code is for part two of that day.
+Unless mentioned, all code is for part 2.
